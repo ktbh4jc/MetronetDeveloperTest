@@ -14,6 +14,6 @@
 
 ## Simple Web Form
 
-> cd simple-web-form
-> npm install
-> npm run start
+> cd simple-web-form  
+> npm install  
+> npm run start  
